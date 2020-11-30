@@ -1,7 +1,8 @@
 #pom
-pom.xml
+*.xml
 #iml
 *.iml
+
 
 #not in
 !SSM_template.iml
