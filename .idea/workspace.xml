@@ -26,6 +26,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/json-lu/SSM.git" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -100,6 +107,7 @@
       <workItem from="1606718178009" duration="5223000" />
       <workItem from="1606723410338" duration="112000" />
       <workItem from="1606723555821" duration="283000" />
+      <workItem from="1606723956271" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <created>1606718679970</created>
@@ -115,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606722691063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git init">
+      <created>1606724049924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724049924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
