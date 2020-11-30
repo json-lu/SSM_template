@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
+    <expand />
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71e8a8a1-bf96-4f65-a2f0-94005e10e67a" name="Default Changelist" comment="git init" />
+    <list default="true" id="71e8a8a1-bf96-4f65-a2f0-94005e10e67a" name="Default Changelist" comment="modify SSM_template.iml file ddd">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +110,7 @@
       <workItem from="1606718178009" duration="5223000" />
       <workItem from="1606723410338" duration="112000" />
       <workItem from="1606723555821" duration="283000" />
-      <workItem from="1606723956271" duration="266000" />
+      <workItem from="1606723956271" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <created>1606718679970</created>
@@ -130,7 +133,63 @@
       <option name="project" value="LOCAL" />
       <updated>1606724049924</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git init">
+      <created>1606724279164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724279164</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add gitignore file">
+      <created>1606724328587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724328587</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify gitignore file">
+      <created>1606724480946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724480946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modify SSM_template.iml file">
+      <created>1606724513493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724513493</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify SSM_template.iml file two">
+      <created>1606724641066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724641066</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modify gitignore file">
+      <created>1606724728400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724728400</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify SSM_template.iml file sss">
+      <created>1606724809817</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724809817</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modify SSM_template.iml file ddd">
+      <created>1606724919428</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606724919428</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +212,13 @@
       <path value="$PROJECT_DIR$/../../../../" />
     </ignored-roots>
     <MESSAGE value="git init" />
-    <option name="LAST_COMMIT_MESSAGE" value="git init" />
+    <MESSAGE value="add gitignore file" />
+    <MESSAGE value="modify SSM_template.iml file" />
+    <MESSAGE value="modify SSM_template.iml file two" />
+    <MESSAGE value="modify gitignore file" />
+    <MESSAGE value="modify SSM_template.iml file sss" />
+    <MESSAGE value="modify SSM_template.iml file ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify SSM_template.iml file ddd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602825873241">
@@ -188,17 +253,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606723772456" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606723304267">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606724928132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606723304267" />
-    <state x="693" y="307" key="git4idea.merge.GitPullDialog" timestamp="1606719459103">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606724928132" />
+    <state x="693" y="307" key="git4idea.merge.GitPullDialog" timestamp="1606724734686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="693" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606719459103" />
-    <state x="758" y="409" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606723339192">
+    <state x="693" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606724734686" />
+    <state x="758" y="409" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606724105770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="758" y="409" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606723339192" />
+    <state x="758" y="409" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606724105770" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606724425723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606724425723" />
   </component>
 </project>
