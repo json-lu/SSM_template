@@ -1,4 +1,7 @@
 #pom
 pom.xml
 #iml
-SSM_template.iml
+*.iml
+
+#not in
+!SSM_template.iml
