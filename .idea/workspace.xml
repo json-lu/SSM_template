@@ -10,9 +10,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71e8a8a1-bf96-4f65-a2f0-94005e10e67a" name="Default Changelist" comment="modify SSM_template.iml file ddd">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="71e8a8a1-bf96-4f65-a2f0-94005e10e67a" name="Default Changelist" comment="modify gitignore file sccaa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSM_template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SSM_template.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,7 @@
       <workItem from="1606718178009" duration="5223000" />
       <workItem from="1606723410338" duration="112000" />
       <workItem from="1606723555821" duration="283000" />
-      <workItem from="1606723956271" duration="1104000" />
+      <workItem from="1606723956271" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <created>1606718679970</created>
@@ -189,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606724919428</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="modify gitignore file sccaa">
+      <created>1606725098294</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606725098294</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modify gitignore file sccaa">
+      <created>1606725130687</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606725130687</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +232,8 @@
     <MESSAGE value="modify gitignore file" />
     <MESSAGE value="modify SSM_template.iml file sss" />
     <MESSAGE value="modify SSM_template.iml file ddd" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify SSM_template.iml file ddd" />
+    <MESSAGE value="modify gitignore file sccaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify gitignore file sccaa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602825873241">
@@ -253,10 +268,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606723772456" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606724928132">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606725142153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606724928132" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606725142153" />
     <state x="693" y="307" key="git4idea.merge.GitPullDialog" timestamp="1606724734686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
