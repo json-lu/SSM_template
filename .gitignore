@@ -3,6 +3,5 @@
 #iml
 *.iml
 
-
 #not in
 !SSM_template.iml
