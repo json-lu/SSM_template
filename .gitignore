@@ -5,3 +5,9 @@
 
 #not in
 !SSM_template.iml
+
+#jpg
+*.jpg
+
+#txt
+*.txt
