@@ -2,11 +2,12 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.Reader;
 import java.io.Writer;
-import java.util.Objects;
 
 /**
  * <p>
- *
+ *      字符流
+ *          Reader ---字符输入流
+ *          Writer ---字符输出流
  * </p>
  *
  * @Since: Created  in 13:08 2020/12/23

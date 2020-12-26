@@ -4,7 +4,9 @@ import java.io.*;
 
 /**
  * <p>
- *
+ *      字节流
+ *          InputStream 字节输入流 ----读取文件到内存中
+ *          OutputStream 字节输出流 ----写入文件到内存中
  * </p>
  *
  * @Since: Created  in 9:38 2020/12/23

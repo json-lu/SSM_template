@@ -1,6 +1,7 @@
 package com.ljx.exercise.pojo;
 import javax.persistence.Entity;
 import javax.persistence.Table;
+import java.io.Serializable;
 import java.util.Date;
 
 /**
@@ -12,7 +13,9 @@ import java.util.Date;
  * @Author: Ljx
  * @Decription:
  */
-public class User {
+public class User implements Serializable {
+    //加入序列版本号，防止类发生变化，反序列化找不到对应的版本号，反序列化失败!!!
+    private static final long serialVersionUID = 101l; //该版本号的目的在于验证序列化的对象和对应类是否版本匹配。 固定字段serialVersionUID
     private Integer id;//用户id
     private String username;//用户名
     private String password;//密码
@@ -20,9 +23,18 @@ public class User {
     private String records_status;//用户状态
     private Date create_time;//创建时间
     private Date last_login_time;//最后登录时间
+    //private String ceshi;//测试
+
+
 
     public User() {
 
+    }
+
+    public User(String username, String password, String mobile) {
+        this.username = username;
+        this.password = password;
+        this.mobile = mobile;
     }
 
     public User(Integer id, String username, String password, String mobile, String records_status, Date create_time, Date last_login_time) {
@@ -91,6 +103,7 @@ public class User {
         this.last_login_time = last_login_time;
     }
 
+
     @Override
     public String toString() {
         return "User{" +
@@ -103,7 +116,6 @@ public class User {
                 ", last_login_time=" + last_login_time +
                 '}';
     }
-
 
     /*    public static void main(String[] args) throws IllegalAccessException {
             User u = new User();

@@ -9,6 +9,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Timer;
 
 /**
  * <p>
@@ -20,7 +21,6 @@ import java.util.List;
  * @Decription:
  */
 public class UserServiceImpl implements IUserService {
-
     //创建一个数据层访问对象 （此处有较大的耦合性，UserServiceImpl类依赖于dao层）
     private IUserDao userDao = new UserDaoImpl();
 

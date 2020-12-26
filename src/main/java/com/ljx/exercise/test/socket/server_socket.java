@@ -44,8 +44,6 @@ public class server_socket {
                 System.out.println(new String(b, "UTF-8"));
             }
             System.out.println("!!!!!!!!!!!!!!!");
-
-
         } catch (Exception e) {
             e.printStackTrace();
         } finally {

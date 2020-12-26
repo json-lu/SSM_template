@@ -2,7 +2,11 @@ import java.io.*;
 
 /**
  * <p>
- *
+ *      字节流
+ *          InputStream 字节输入流 ----读取文件到内存中
+ *          OutputStream 字节输出流 ----写入文件到内存中
+ *          BufferedInputStream 字节缓冲输入流
+ *          BufferedOutputStream 字节缓冲输出流
  * </p>
  *
  * @Since: Created  in 18:17 2020/12/22

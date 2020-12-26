@@ -4,7 +4,9 @@ import java.io.FileReader;
 
 /**
  * <p>
- *
+ *      文件字节流
+ *              FileInputStream 输入流
+ *              FileOutputStream 输出流
  * </p>
  *
  * @Since: Created  in 11:09 2020/12/23

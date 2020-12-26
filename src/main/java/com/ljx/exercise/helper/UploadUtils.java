@@ -59,7 +59,7 @@ public class UploadUtils {
                 }else {//是文件
                     //获取文件名
                     String name = fileItem.getName();
-                    String suffix = name.substring(name.lastIndexOf("."));
+                    //String suffix = name.substring(name.lastIndexOf("."));
                     //拼接新文件名
                     //String newName = UUID.randomUUID().toString().replace("-","").toUpperCase()+System.currentTimeMillis()+suffix;
                     filedNameList.add(name);

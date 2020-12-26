@@ -11,3 +11,7 @@
 
 #txt
 *.txt
+
+#File
+*.exe
+*.xls
